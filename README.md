@@ -1,4 +1,3 @@
-[![MasterHead] https://gist.githubusercontent.com/MedRedha/fd8e2481bde2610c96b9aafde543879c/raw/88624e8d31c4295973dcb7c900dacf0edc0a6d99/coding.gif] https://www.benalikhaled.com/
 <h1 align="center">Hi 👋, I'm Khaled Ben Ali</h1>
 <h3 align="center">Ninja Information Technology Specialist, From The Idea to The Deployment :)</h3>
 <img align="right" alt="Coding" width="400" src="https://gist.githubusercontent.com/MedRedha/fd8e2481bde2610c96b9aafde543879c/raw/88624e8d31c4295973dcb7c900dacf0edc0a6d99/coding.gif">
