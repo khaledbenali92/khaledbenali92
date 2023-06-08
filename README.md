@@ -14,6 +14,25 @@
 
 - 📄 Know about my experiences [https://www.benalikhaled.com/](https://www.benalikhaled.com/)
 
+✅ Ideas Thinking Expert
+✅ Designer Expert
+✅ Mobile Applications Developer
+✅ Desktop Applications Developer
+✅ Game Development
+✅ ERP and CRM Development
+✅ DevOPS Expert
+✅ Python Programmer:
+✅ Ruby Programmer
+✅ Java Programmer
+✅ C# Programmer
+✅ C++ Programmer
+✅ AI Expert
+✅ QA Tester
+✅ Web Scraping Expert
+✅ System Administrator
+✅ Digital Marketing Expert
+✅ Certified Ethical Hacker V9
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/khaled-khaled" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="khaled-khaled" height="30" width="40" /></a>
